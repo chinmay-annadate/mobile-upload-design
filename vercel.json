@@ -23,9 +23,7 @@
       "dest": "/frontend/build/$1"
     }
   ],
-  {
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ]
-}
 }
